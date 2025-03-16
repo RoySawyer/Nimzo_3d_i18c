@@ -45,7 +45,7 @@ msgstr ""
 #: main_1.cpp:128124 main_1.cpp:128909 main_1.cpp:130053 main_1.cpp:130455
 #: main_1.cpp:133335 main_1.cpp:134031 main_1.cpp:136366 main_1.cpp:136499
 #: main_1.cpp:151130 main_1.cpp:151695 main_1.cpp:154201
-msgid "Ok"
+msgid "OK"
 msgstr ""
 
 #: main_1.cpp:225 main_1.cpp:3470 main_1.cpp:4552 main_1.cpp:4907
