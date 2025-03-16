@@ -45,8 +45,8 @@ msgstr "Vẽ (1/2 - 1/2)"
 #: main_1.cpp:128124 main_1.cpp:128909 main_1.cpp:130053 main_1.cpp:130455
 #: main_1.cpp:133335 main_1.cpp:134031 main_1.cpp:136366 main_1.cpp:136499
 #: main_1.cpp:151130 main_1.cpp:151695 main_1.cpp:154201
-msgid "OK"
-msgstr "ĐƯỢC RỒI"
+msgid "Ok"
+msgstr "Được rồi"
 
 #: main_1.cpp:225 main_1.cpp:3470 main_1.cpp:4552 main_1.cpp:4907
 #: main_1.cpp:5598 main_1.cpp:6715 main_1.cpp:7855 main_1.cpp:10580
